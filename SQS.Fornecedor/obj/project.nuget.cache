@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pA6gsin+dVkHGT9p38C/4M+PRCyWQXEfYIjhqG1b5O/BVuHSOZmhRH/Xo28eRLyia0miRs7JXY4AyKMsID093w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aretha.martins\\source\\repos\\SQS\\SQS.Fornecedor\\SQS.Fornecedor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aretha.martins\\.nuget\\packages\\awssdk.core\\3.7.3.20\\awssdk.core.3.7.3.20.nupkg.sha512",
+    "C:\\Users\\aretha.martins\\.nuget\\packages\\awssdk.sqs\\3.7.1.23\\awssdk.sqs.3.7.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
